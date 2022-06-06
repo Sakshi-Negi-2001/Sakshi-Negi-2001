@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFC136U6TU/YntoWWLTiYigPwu7vVkWVQ/edit">
+![](Header.jpg)
 <h1 align="center" >Hi 👋, I'm Sakshi Negi</h1>
 
 <h3 align="center">20-year-old tech enthusiast. I am familiar with Full Stack Web Development, and Machine Learning and have recently spent time on Embedded Systems. I am available for any projects related to these fields.</h3>
