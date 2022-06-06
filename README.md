@@ -99,4 +99,7 @@
     <a href="https://instagram.com/sakshi_negi_22" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_negi_22" height=40" width="40" />
     </a>
+    <img align="right" src="Image2.png" height="250" margin="0">
+
 </p>
+
