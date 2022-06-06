@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **React, Django, React Native, AWS, Bootstrap, MongoDB, MySQL, API**
 
-- 📫 How to reach me **sakshi12502negi@gmail.com**
-
 - ⚡ Fun fact **I play table tennis and netball.**
 
 <br>
@@ -73,7 +71,7 @@
 <p >
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-i&show_icons=true&locale=en&layout=compact" alt="joy-i"padding-right="100"  height="200" />
 </p>
-<br><br><br><br>
+
 <p>&nbsp;
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en" alt="joy-i"  height ="200"padding-top="200" />
 </p>
