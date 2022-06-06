@@ -72,13 +72,13 @@
 <p >
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-i&show_icons=true&locale=en&layout=compact" alt="joy-i"padding-right="100"  height="200" />
 </p>
-
+<br><br><br><br>
 <p>&nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en" alt="joy-i"  height ="200" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en" alt="joy-i"  height ="200"padding-top="200" />
 </p>
 <br>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i"padding-top="200" />
 </p>
 <hr>
 
