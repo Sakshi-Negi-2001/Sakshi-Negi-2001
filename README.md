@@ -76,7 +76,7 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en" alt="joy-i" padding="20" />
 </p>
-<br>
+
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i" padding="20" />
 </p>
