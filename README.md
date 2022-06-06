@@ -1,4 +1,4 @@
-<h1 align="center" padding-bottom="40">Hi 👋, I'm Sakshi Negi</h1>
+<h1 align="center" >Hi 👋, I'm Sakshi Negi</h1>
 
 <h3 align="center">20-year-old tech enthusiast. I am familiar with Full Stack Web Development, and Machine Learning and have recently spent time on Embedded Systems. I am available for any projects related to these fields.</h3>
 <br>
@@ -68,36 +68,36 @@
     </a> 
 
 </p>
-<br>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-i&show_icons=true&locale=en&layout=compact" alt="joy-i" padding="20"/>
+
+<p >
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-i&show_icons=true&locale=en&layout=compact" alt="joy-i"padding-right="100"  height="200" />
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en" alt="joy-i" padding="20" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en" alt="joy-i"  height ="200" />
 </p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i" padding="20" />
-</p>
-
 <br>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i" />
+</p>
+<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/sakshinegi118" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshinegi118" height="40" width="40" padding="50"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshinegi118" height="40" width="40"/>
     </a>
     <a href="https://linkedin.com/in/sakshi-negi-2001" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-negi-2001" height="40" width="40" padding="50"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-negi-2001" height="40" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/12060172" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12060172" height="40" width="40" padding="50"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12060172" height="40" width="40" />
     </a>
     <a href="https://fb.com/sakshi027" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakshi027" height="40" width="40" padding="50"/>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakshi027" height="40" width="40" />
     </a>
     <a href="https://instagram.com/sakshi_negi_22" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_negi_22" height=40" width="40" padding="50" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_negi_22" height=40" width="40" />
     </a>
 </p>
