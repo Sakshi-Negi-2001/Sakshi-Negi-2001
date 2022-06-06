@@ -81,25 +81,26 @@
 </p>
 <hr>
 
+<img align="right" src="Image2.png" height="250" margin="0">
+<h2 align="left">Connect with me:</h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/sakshinegi118" target="blank">
+    <a href="https://twitter.com/sakshinegi118" target="blank">   
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshinegi118" height="40" width="40"/>
-    </a>
-    <a href="https://linkedin.com/in/sakshi-negi-2001" target="blank">
+    </a>    
+    <a href="https://linkedin.com/in/sakshi-negi-2001" target="blank">    
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-negi-2001" height="40" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/12060172" target="blank">
+    <a href="https://stackoverflow.com/users/12060172" target="blank">    
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12060172" height="40" width="40" />
     </a>
-    <a href="https://fb.com/sakshi027" target="blank">
+    <a href="https://fb.com/sakshi027" target="blank">    
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakshi027" height="40" width="40" />
     </a>
-    <a href="https://instagram.com/sakshi_negi_22" target="blank">
+    <a href="https://instagram.com/sakshi_negi_22" target="blank">    
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_negi_22" height=40" width="40" />
     </a>
-    <img align="right" src="Image2.png" height="250" margin="0">
+    
 
 </p>
 
