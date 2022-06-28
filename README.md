@@ -71,7 +71,7 @@
 
 <br>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i"padding-top="200" />
+    <img align="center" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i"padding-top="200" />
 </p>
 <hr>
 
