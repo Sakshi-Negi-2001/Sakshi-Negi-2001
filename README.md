@@ -1,7 +1,7 @@
 ![](Header.jpg)
 <h1 align="center" >Hi 👋, I'm Sakshi Negi</h1>
 
-<h3 align="center">20-year-old tech enthusiast. I am familiar with Full Stack Web Development, and Machine Learning and have recently spent time on Embedded Systems. I am available for any projects related to these fields.</h3>
+<h3 align="center">22-year-old tech enthusiast. I am familiar with Full Stack Web Development, and Machine Learning and have recently spent time on Embedded Systems. I am available for any projects related to these fields.</h3>
 <br>
 
 - 🔭 I’m currently working on **My final year project (A stick for blind)**
