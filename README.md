@@ -1,4 +1,4 @@
-![](Header.jpg)
+![](Header.png)
 <h1 align="center" >Hi 👋, I'm Sakshi Negi</h1>
 
 <h4 align="center">22-year-old tech enthusiast. I am a final year B.Tech CSE student at DIT University and am familiar with Full Stack Web Development, and Machine Learning and Embedded Systems. I have been the chairperson of ACM Student Chapter at DIT University(2021-22) and am currently a part of the advisory(2022-present). I am available for any projects related to these fields.</h4>
