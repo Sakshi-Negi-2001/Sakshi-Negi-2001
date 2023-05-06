@@ -76,7 +76,6 @@
 </p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Negi-2001&theme=radical&margin-w=40&margin-h=40" alt="Sakshi-Negi-2001" /></a> </p>
 <hr>
-<br>
 
 <!-- Statsistics -->
 <p align="center">
