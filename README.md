@@ -1,7 +1,7 @@
 ![](Header.jpg)
 <h1 align="center" >Hi 👋, I'm Sakshi Negi</h1>
 
-<h3 align="center">22-year-old tech enthusiast. I am familiar with Full Stack Web Development, and Machine Learning and have recently spent time on Embedded Systems. I am available for any projects related to these fields.</h3>
+<h3 align="center">22-year-old tech enthusiast. I am a final year B.Tech CSE student at DIT University and am familiar with Full Stack Web Development, and Machine Learning and Embedded Systems. I have been the chairperson of ACM Student Chapter at DIT University(2021-22) and am currently a part of the advisory(2022-present). I am available for any projects related to these fields.</h3>
 <br>
 
 - 🔭 I’m currently working on **Research Projects**
@@ -11,8 +11,8 @@
 - ⚡ Fun fact **I play netball(professional)**
 
 <br>
-
-<h3 align="left">Languages and Tools:</h3>
+<!-- Technologies-->
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"padding="40"/>
@@ -67,14 +67,28 @@
     </a> 
 
 </p>
-
-
 <br>
-<p>
-    <img align="center" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-i&" alt="joy-i"padding-top="200" />
+
+<!-- Trophies -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
 </p>
+
+[![trophy](https://github.com/ryo-ma/github-profile-trophy&theme=radical&margin-w=40&margin-h=40)](https://github.com/joy-i)
+
+<hr>
+<br>
+<!-- Statsistics -->
+<p align="center">
+<h2 align="center">My Github Profile Summary</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/joy-i)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joy-i&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/joy-i)|![joy-i](https://github-readme-streak-stats.herokuapp.com/?user=joy-i&theme=dark)
 <hr>
 
+<!-- Network-->
 <img align="right" src="Image2.png" height="250" margin="0">
 <h2 align="left">Connect with me:</h2>
 
