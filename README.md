@@ -88,7 +88,7 @@
 <hr>
 
 <!-- Network-->
-<img align="right" src="Image2.png" height="250" margin="0">
+<img align="right" src="Image1.png" height="250" margin="0">
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
