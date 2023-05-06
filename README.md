@@ -74,7 +74,7 @@
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy-i&theme=radical&margin-w=40&margin-h=40" alt="joy-i" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Negi-2001&theme=radical&margin-w=40&margin-h=40" alt="Sakshi-Negi-2001" /></a> </p>
 <hr>
 <br>
 
@@ -84,7 +84,7 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=joy-i&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/joy-i)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joy-i&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/joy-i)|![joy-i](https://github-readme-streak-stats.herokuapp.com/?user=joy-i&theme=dark)
+|[![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=Sakshi-Negi-2001&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Sakshi-Negi-2001)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sakshi-Negi-2001&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Sakshi-Negi-2001)|![Sakshi-Negi-2001](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Negi-2001&theme=dark)
 <hr>
 
 <!-- Network-->
