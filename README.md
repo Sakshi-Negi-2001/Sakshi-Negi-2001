@@ -4,11 +4,11 @@
 <h3 align="center">22-year-old tech enthusiast. I am familiar with Full Stack Web Development, and Machine Learning and have recently spent time on Embedded Systems. I am available for any projects related to these fields.</h3>
 <br>
 
-- 🔭 I’m currently working on **My final year project (A stick for blind)**
+- 🔭 I’m currently working on **Research Projects**
 
-- 💬 Ask me about **React, Django, React Native, AWS, Bootstrap, MongoDB, MySQL, API**
+- 💬 Ask me about **Python(Django, Flask) React Native, AWS, Full Stack Web Development, MongoDB, MySQL**
 
-- ⚡ Fun fact **I play table tennis and netball.**
+- ⚡ Fun fact **I play netball(professional)**
 
 <br>
 
