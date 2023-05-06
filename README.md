@@ -1,7 +1,7 @@
 ![](Header.jpg)
 <h1 align="center" >Hi 👋, I'm Sakshi Negi</h1>
 
-<h3 align="center">22-year-old tech enthusiast. I am a final year B.Tech CSE student at DIT University and am familiar with Full Stack Web Development, and Machine Learning and Embedded Systems. I have been the chairperson of ACM Student Chapter at DIT University(2021-22) and am currently a part of the advisory(2022-present). I am available for any projects related to these fields.</h3>
+<h4 align="center">22-year-old tech enthusiast. I am a final year B.Tech CSE student at DIT University and am familiar with Full Stack Web Development, and Machine Learning and Embedded Systems. I have been the chairperson of ACM Student Chapter at DIT University(2021-22) and am currently a part of the advisory(2022-present). I am available for any projects related to these fields.</h4>
 <br>
 
 - 🔭 I’m currently working on **Research Projects**
@@ -73,12 +73,12 @@
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
+
 </p>
-
-[![trophy](https://github.com/ryo-ma/github-profile-trophy&theme=radical&margin-w=40&margin-h=40)](https://github.com/joy-i)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=joy-i&theme=radical&margin-w=40&margin-h=40)](https://github.com/joy-i)
 <hr>
 <br>
+
 <!-- Statsistics -->
 <p align="center">
 <h2 align="center">My Github Profile Summary</h2>
