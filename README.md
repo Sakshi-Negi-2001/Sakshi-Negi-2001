@@ -103,7 +103,7 @@
     <a href="https://stackoverflow.com/users/12060172" target="blank">    
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40" style="padding-right:5%;" />
     </a>
-    <a href="https://medium.com/sakshi12502negi" target="blank">    
+    <a href="https://medium.com/@sakshi12502negi" target="blank">    
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" style="padding-right:5%;" />
     </a>
     
