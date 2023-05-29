@@ -56,9 +56,6 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" padding="20"/> 
     </a> 
-    <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
-        <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" padding="20"/> 
-    </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" padding="20"/> 
     </a>
